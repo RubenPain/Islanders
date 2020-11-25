@@ -24,14 +24,13 @@ Dans votre code Arduino le plus important est la fonction loop qui cherche à sc
 Ensuite dans unity on a un GameObject qui va afficher les prefabs des personnages en fonction des données qu'il reçoit via l'ouverture du SerialPort sur lequel la carte Arduino est connectée. Puis la lecture des données renvoyées via ce SerialPort. Si la donnée reçue correspond au Tag préenregistré alors on fait quelque chose, ici on affiche un prefabs. 
 
 # Images 
-<img src="https://github.com/RubenPain/Islanders/blob/master/IMG/P1000130.JPG" height=300>
-<img src="https://github.com/RubenPain/Islanders/blob/master/IMG/P1000131.JPG" height=300>
-<img src="https://github.com/RubenPain/Islanders/blob/master/IMG/P1000132.JPG" height=300>
-<img src="https://github.com/RubenPain/Islanders/blob/master/IMG/P1000133.JPG" height=300>
-<img src="https://github.com/RubenPain/Islanders/blob/master/IMG/P1000134.JPG" height=300>
-<img src="https://github.com/RubenPain/Islanders/blob/master/IMG/P1000135.JPG" height=300>
-<img src="https://github.com/RubenPain/Islanders/blob/master/IMG/P1000136.JPG" height=300>
-<img src="https://github.com/RubenPain/Islanders/blob/master/IMG/P1000137.JPG" height=300>
-<img src="https://github.com/RubenPain/Islanders/blob/master/IMG/P1000138.JPG" height=300>
-<img src="https://github.com/RubenPain/Islanders/blob/master/IMG/P1000139.JPG" height=300>
-<img src="https://github.com/RubenPain/Islanders/blob/master/IMG/P1000140.JPG" height=300>
+<img src="https://github.com/RubenPain/Islanders/blob/master/IMG/P1000130.JPG" >
+<img src="https://github.com/RubenPain/Islanders/blob/master/IMG/P1000131.JPG" >
+<img src="https://github.com/RubenPain/Islanders/blob/master/IMG/P1000132.JPG" >
+<img src="https://github.com/RubenPain/Islanders/blob/master/IMG/P1000133.JPG" >
+<img src="https://github.com/RubenPain/Islanders/blob/master/IMG/P1000134.JPG" >
+<img src="https://github.com/RubenPain/Islanders/blob/master/IMG/P1000135.JPG" >
+<img src="https://github.com/RubenPain/Islanders/blob/master/IMG/P1000136.JPG" >
+<img src="https://github.com/RubenPain/Islanders/blob/master/IMG/P1000137.JPG" >
+<img src="https://github.com/RubenPain/Islanders/blob/master/IMG/P1000138.JPG" >
+<img src="https://github.com/RubenPain/Islanders/blob/master/IMG/P1000140.JPG" >
