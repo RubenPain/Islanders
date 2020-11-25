@@ -25,3 +25,13 @@ Ensuite dans unity on a un GameObject qui va afficher les prefabs des personnage
 
 # Images 
 <img src="https://github.com/RubenPain/Islanders/blob/master/IMG/P1000130.JPG" height=300>
+<img src="https://github.com/RubenPain/Islanders/blob/master/IMG/P1000131.JPG" height=300>
+<img src="https://github.com/RubenPain/Islanders/blob/master/IMG/P1000132.JPG" height=300>
+<img src="https://github.com/RubenPain/Islanders/blob/master/IMG/P1000133.JPG" height=300>
+<img src="https://github.com/RubenPain/Islanders/blob/master/IMG/P1000134.JPG" height=300>
+<img src="https://github.com/RubenPain/Islanders/blob/master/IMG/P1000135.JPG" height=300>
+<img src="https://github.com/RubenPain/Islanders/blob/master/IMG/P1000136.JPG" height=300>
+<img src="https://github.com/RubenPain/Islanders/blob/master/IMG/P1000137.JPG" height=300>
+<img src="https://github.com/RubenPain/Islanders/blob/master/IMG/P1000138.JPG" height=300>
+<img src="https://github.com/RubenPain/Islanders/blob/master/IMG/P1000139.JPG" height=300>
+<img src="https://github.com/RubenPain/Islanders/blob/master/IMG/P1000140.JPG" height=300>
