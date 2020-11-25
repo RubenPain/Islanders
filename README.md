@@ -15,7 +15,7 @@ En cours de rédaction...
 
 # Initialisation
 
-Assurez-vous que votre carte Arduino UNO soit connectée via le COM/Port 7. Ouvrez dans votre IDE Arduino le fichier Ecran.ino et changez les NumTag par les votres. Téléversez le code Controleur_Unity.ino sur votre Arduino UNO.<br>
+Assurez-vous que votre carte Arduino UNO soit connectée via le COM/Port 7. Ouvrez dans votre IDE Arduino le fichier Ecran.ino et remplacez les NumTag par les votres. Téléversez le code Controleur_Unity.ino sur votre Arduino UNO.<br>
 Gardez votre carte Arduino branchée.<br>
 Ouvrez votre projet Unity, modifiez le script Arduino.cs en ajoutant vos numéros de tag rfid (les mêmes que ceux modifiés juste avant).<br>
 Lancez votre scène unity et testez le projet.<br>
