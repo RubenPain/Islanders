@@ -22,3 +22,6 @@ Lancez votre scène unity et testez le projet.<br>
 
 Dans votre code Arduino le plus important est la fonction loop qui cherche à scanner un tag RFID et Serial.println qui affiche le résultat en retournant à la ligne à chaque fois (pour unity). Le reste du code est pour faire fonctionner l'écran et l'anneau de led (juste de la décoration).<br>
 Ensuite dans unity on a un GameObject qui va afficher les prefabs des personnages en fonction des données qu'il reçoit via l'ouverture du SerialPort sur lequel la carte Arduino est connectée. Puis la lecture des données renvoyées via ce SerialPort. Si la donnée reçue correspond au Tag préenregistré alors on fait quelque chose, ici on affiche un prefabs. 
+
+# Images 
+https://github.com/RubenPain/Islanders/blob/main/IMG/P1000130.JPG
