@@ -11,6 +11,8 @@ https://youtu.be/5ReYzrDueLk
 
 # Schéma Connexion
 
+En cours de rédaction...
+
 # Initialisation
 
 Assurez-vous que votre carte Arduino UNO soit connectée via le COM/Port 7. Ouvrez dans votre IDE Arduino le fichier Ecran.ino et changez les NumTag par les votres. Téléversez le code Controleur_Unity.ino sur votre Arduino UNO.<br>
